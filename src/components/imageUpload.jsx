@@ -41,7 +41,7 @@ const ImageUpload = () => {
   return (
     <section className="my-[5rem]">
       <h3 className="text-center m-auto px-2 text-[#121417] text-3xl font-semibold w-[22rem] md:text-4xl md:w-3/4 lg:w-3/4 xl:w-1/2">
-        Change the logo of navbar, testimonial, footer section
+        Change the logo of sidebar navbar
       </h3>
       <div className="flex flex-col gap-3 justify-center items-center mt-5">
         <input
