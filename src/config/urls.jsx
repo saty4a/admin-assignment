@@ -1,4 +1,4 @@
-const domainName = "http://localhost:3000/api";
+const domainName = "https://dashboard-backend-psi.vercel.app/api";
 
 export const urls = {
     uploadImage: `${domainName}/upload-images`,
