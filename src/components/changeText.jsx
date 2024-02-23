@@ -27,7 +27,7 @@ const ChangeText = () => {
   return (
     <section className="my-[5rem]">
       <h3 className="text-center text-[#121417] text-3xl font-semibold md:text-4xl">
-        change the text of header button
+        change the text of header
       </h3>
       <div className="flex justify-center mt-10">
         <input
